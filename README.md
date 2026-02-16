@@ -1,7 +1,7 @@
 <img width="444" height="88" alt="CleanShot 2026-01-28 at 07 50 46" src="https://github.com/user-attachments/assets/4cd0bdcb-d6a6-4951-a03c-8a797e0d156d" />
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 [gmail1-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
