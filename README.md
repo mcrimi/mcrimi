@@ -5,11 +5,6 @@
   </picture>
 </a>
 
-<br>
-
-I'm from Argentina and I live in Montpellier. I work at Bluesquare on [OpenHEXA](https://openhexa.com), open-source software that public health teams use to wrestle their data into something they can act on, and I'm the company's self-appointed AI engineer. A product person who never put the keyboard down. Also a drummer.
-
-<br>
 
 ## Portfolio
 <sub><i>Data science projects</i></sub>
