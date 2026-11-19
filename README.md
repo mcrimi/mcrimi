@@ -1,10 +1,19 @@
-<a href="https://marianocrimi.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img alt="Mariano Crimi. Product, AI, drums, endless rumination." src="assets/header-light.svg" width="100%">
-  </picture>
-</a>
+```text
+$ whoami
 
+   __  ___         _                  _____    _       _
+  /  |/  /__ _____(_)__ ____  ___    / ___/___(_)_ _  (_)
+ / /|_/ / _ `/ __/ / _ `/ _ \/ _ \  / /__/ __/ /  ' \/ /
+/_/  /_/\_,_/_/ /_/\_,_/_//_/\___/  \___/_/ /_/_/_/_/_/
+
+Product, AI, drums, endless rumination
+
+▓▓▓▓▒▒▒▒▒▒░░░░░░░░·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+
+$ █
+```
+
+<sub>[marianocrimi.com](https://marianocrimi.com)</sub>
 
 ## Portfolio
 <sub><i>Data science projects</i></sub>
