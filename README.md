@@ -8,22 +8,6 @@ $ █
 
 <sub>[marianocrimi.com](https://marianocrimi.com)</sub>
 
-## Portfolio
-<sub><i>Data science projects</i></sub>
-
-- **[Game of Thrones survival analysis](https://marianocrimi.com/#project-got-survival)** · <sub>2021 · R</sub>  
-  Survival analysis of Game of Thrones characters using Kaplan-Meier estimators, Cox regression and Elastic Net. [Repo](https://github.com/mcrimi/got_survival)
-- **[Vélib weekly cluster analysis](https://marianocrimi.com/#project-velib-clusters)** · <sub>2021 · Notebook</sub>  
-  Cluster analysis of the Paris Vélib bike-sharing system over one week. [Repo](https://github.com/mcrimi/velib_weekly_cluster_analysis)
-- **[Genetic algorithm for the travelling salesman](https://marianocrimi.com/#project-ga-for-tsp)** · <sub>2020 · Python</sub>  
-  A genetic optimisation algorithm for travelling salesman problems. [Repo](https://github.com/mcrimi/GA_for_TSP_v2)
-- **[CEC 2008 benchmark functions](https://marianocrimi.com/#project-cec2008)** · <sub>2020 · Python</sub>  
-  Optimisation in Python for the CEC 2008 large-scale global optimisation benchmarks. [Repo](https://github.com/mcrimi/CEC2008)
-- **[Ultimatum game](https://marianocrimi.com/#project-ultimatum-game)** · <sub>2020 · NetLogo</sub>  
-  An agent-based ultimatum game. [Repo](https://github.com/mcrimi/ultimatumgame_abm)
-
-<br>
-
 ## Projects
 <sub><i>Products I've worked on, and things built to see if they work</i></sub>
 
@@ -37,6 +21,22 @@ $ █
   A platform for plant breeders covering data management, experimental design and genotypic and phenotypic analytics, funded by the Gates Foundation and hosted by CGIAR. I was its product manager for eight years. [GitHub](https://github.com/IntegratedBreedingPlatform) · [Site](https://bmspro.io)
 - **[Pathways MCP server](https://withpathways.org/en/resources/guides/using-pathways-in-your-work/using-the-pathways-mcp-server)** · <sub>Since 2025 · Bluesquare</sub>  
   Gives AI assistants like Claude and ChatGPT read-only access to Pathways segmentation data: health outcomes and vulnerability factors for women and their households, by population segment. [Guide](https://withpathways.org/en/resources/guides/using-pathways-in-your-work/using-the-pathways-mcp-server) · [Test UI](https://github.com/mcrimi/pathways-streamlit-ui)
+
+<br>
+
+## Experiments
+<sub><i>Data science side projects</i></sub>
+
+- **[Game of Thrones survival analysis](https://marianocrimi.com/#project-got-survival)** · <sub>2021 · R</sub>  
+  Survival analysis of Game of Thrones characters using Kaplan-Meier estimators, Cox regression and Elastic Net. [Repo](https://github.com/mcrimi/got_survival)
+- **[Vélib weekly cluster analysis](https://marianocrimi.com/#project-velib-clusters)** · <sub>2021 · Notebook</sub>  
+  Cluster analysis of the Paris Vélib bike-sharing system over one week. [Repo](https://github.com/mcrimi/velib_weekly_cluster_analysis)
+- **[Genetic algorithm for the travelling salesman](https://marianocrimi.com/#project-ga-for-tsp)** · <sub>2020 · Python</sub>  
+  A genetic optimisation algorithm for travelling salesman problems. [Repo](https://github.com/mcrimi/GA_for_TSP_v2)
+- **[CEC 2008 benchmark functions](https://marianocrimi.com/#project-cec2008)** · <sub>2020 · Python</sub>  
+  Optimisation in Python for the CEC 2008 large-scale global optimisation benchmarks. [Repo](https://github.com/mcrimi/CEC2008)
+- **[Ultimatum game](https://marianocrimi.com/#project-ultimatum-game)** · <sub>2020 · NetLogo</sub>  
+  An agent-based ultimatum game. [Repo](https://github.com/mcrimi/ultimatumgame_abm)
 
 <br>
 
