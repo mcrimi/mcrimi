@@ -24,15 +24,17 @@ $ █
 
 <br>
 
-## AI experiments
-<sub><i>Things built to see if they work</i></sub>
+## Projects
+<sub><i>Products I've worked on, and things built to see if they work</i></sub>
 
-- **[Snakeformer](https://marianocrimi.com/#project-snakeformer)** · <sub>2026 · Python</sub>  
-  A transformer trained from scratch to simulate the good old game of Snake. The overengineered snake game nobody asked for. [Repo](https://github.com/mcrimi/snakeformer) · [Weights](https://huggingface.co/mcrimi/snakeformer)
-- **[Pathways Streamlit UI](https://marianocrimi.com/#project-pathways-ui)** · <sub>2026 · Python</sub>  
-  A proof-of-concept Streamlit UI to test what an MCP server can do. [Repo](https://github.com/mcrimi/pathways-streamlit-ui)
-- **[MCP server for OpenHEXA](https://marianocrimi.com/#project-mcp-openhexa)** · <sub>2025 · Python</sub>  
-  A very rudimentary proof of concept of a local MCP server for OpenHEXA, used from Claude Desktop. [Repo](https://github.com/mcrimi/mcp-openhexa)
+- **[Snakeformer](https://marianocrimi.com/#project-snakeformer)** · <sub>2025-2026 · Python</sub>  
+  A small GPT-style transformer trained from scratch to simulate Snake. It reads the board as text plus your move and writes the next frame, token by token: a learned physics engine nobody asked for. [Repo](https://github.com/mcrimi/snakeformer) · [Weights](https://huggingface.co/mcrimi/snakeformer)
+- **[OpenHEXA](https://www.openhexa.com)** · <sub>Since 2024 · Bluesquare</sub>  
+  An open-source, end-to-end data intelligence platform for public health. I'm its technical product manager and AI engineer, and it now ships an MCP connector for Claude, ChatGPT and Gemini CLI. [Repo](https://github.com/BLSQ/openhexa) · [MCP connector](https://github.com/BLSQ/openhexa-app/tree/main/backend/hexa/mcp) · [My first MCP prototype](https://github.com/mcrimi/mcp-openhexa)
+- **[BMS, the Breeding Management System](https://bmspro.io)** · <sub>2016-2024 · Integrated Breeding Platform</sub>  
+  A platform for plant breeders covering data management, experimental design and genotypic and phenotypic analytics, funded by the Gates Foundation and hosted by CGIAR. I was its product manager for eight years. [GitHub](https://github.com/IntegratedBreedingPlatform) · [Site](https://bmspro.io)
+- **[Pathways MCP server](https://withpathways.org/en/resources/guides/using-pathways-in-your-work/using-the-pathways-mcp-server)** · <sub>Since 2025 · Bluesquare</sub>  
+  Gives AI assistants like Claude and ChatGPT read-only access to Pathways segmentation data: health outcomes and vulnerability factors for women and their households, by population segment. [Guide](https://withpathways.org/en/resources/guides/using-pathways-in-your-work/using-the-pathways-mcp-server) · [Test UI](https://github.com/mcrimi/pathways-streamlit-ui)
 
 <br>
 
